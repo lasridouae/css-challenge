@@ -1,0 +1,202 @@
+body{
+    font-family: 'Barlow Condensed', sans-serif;
+    color:black;
+    font-size:1rem
+
+    }
+   
+
+.intro-div{
+    position: absolute;
+    top: 2%;
+    left: 0;
+    width:  90%;
+    float: left;
+    margin-bottom: 5%;
+    margin-top: 0%;
+    margin-left: 1%;
+}
+
+
+#logo{
+     width: 3%;
+   float: left;
+   margin-top: 1%;
+  
+}
+
+.paragraph-section{
+    
+  width: 19%;
+  text-align: left;
+  padding: 0;  
+ 
+   
+  
+   
+}
+
+.paragraph-section h1{
+    
+}
+
+
+
+
+.paragraph-section  span{
+    float: left;
+    width: 20%;
+    margin-top: 10%;
+    font-family: 'Barlow Condensed', sans-serif;
+    color: #fff;
+    background-color:#242942;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size:1em;
+    padding: 2% 2%;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 60%;
+    
+}
+
+.paragraph-section #first-paragraph{
+    text-transform: uppercase;
+    font-size: 1.3em;
+    padding: 11%;
+    margin-top: 50%;
+    margin-left: 20%;
+    color: #ACACAE;
+   
+    
+}
+
+.paragraph-section #last-paragraph{
+   padding: 2%;
+   font-size:1.5em ;
+   text-align: left;
+   font-family: 'Barlow Condensed', sans-serif;
+   color: #8E929B ;
+   
+ 
+}
+
+
+
+.button-section{
+    font-family: 'Barlow Condensed', sans-serif;
+    width: 30%;
+    margin: 0;
+    padding: 1%;  
+    text-transform: uppercase;
+    text-decoration :none;
+   font-size: 1.3em;
+   }
+
+.button-section a{
+    font-size: 1em;
+    margin-left: 4%;
+    text-transform: uppercase; 
+    text-decoration: none; 
+    color: #ACACAE;
+}
+
+.button-section Button {
+    font-family: 'Barlow Condensed', sans-serif;
+    background-color: #ff5d5d;
+    border: none;
+    color: white;
+    padding: 5%;
+    text-align: left;
+    text-decoration: none;
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 12%;
+    font-weight: bold;
+    display: inline;
+    
+    
+}
+
+
+/* The first section art divs */
+
+.art-div{
+   position: absolute;
+    top: 2%;
+    right: 2%;
+    color:black;
+    text-decoration :none;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 3em;
+    
+    
+   
+    
+}
+
+.art-div img{
+    margin: 1% 2%;
+    padding: 8%; 
+    top: 1%;
+
+   
+}
+
+.art-div ul{
+    
+  
+    
+}
+
+.art-div ul li{
+    list-style: none;
+    display: inline; 
+    width: 150%;
+    height: 150%;
+    padding: 5%;
+    border: none; 
+     
+    
+    
+}
+
+.art-div ul li a{
+    text-decoration: none;
+      
+} 
+
+.art-div ul li a:hover{
+    
+}
+
+
+.art-div .dotted-circle{
+   color: #ACACAE;
+   font-weight: bold;
+}
+
+.art-div .login-grey{
+    color:#ACACAE ;
+    font-weight: bold;
+
+}
+
+
+
+/* the second section background gris*/
+.art-background{
+    position: absolute;
+    top: 2%;
+    right: 2%;
+    padding: 0% 5%;
+    float: right;
+    background-color: #CDD2D6;
+    position: fixed;
+    width: 54%;
+    height: 40%;
+    border-bottom-left-radius: 5%;
+ 
+   
+}
